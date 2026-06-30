@@ -1,2 +1,4 @@
 # learn-sql
-This repo is made to follow a "Beginner SQL Guide", following the channel of Alex the Analyst.
+
+SQL Practice repo, following Alex the Analyst "Beginner SQL Guide" : [https://www.youtube.com/watch?v=OT1RErkfLNQ&t=13s]
+
